@@ -20,7 +20,7 @@ Todas as requisições foram testadas via **Postman** (GET, POST, DEL, PUT).
 ![Modelo Conceitual](https://github.com/Jullianag/gestao-locacao-veiculos/blob/main/assets/Diagrama.png)
 
 ## Postman
-Fotos das transições executadas dentro do Postman:
+Fotos das transações executadas dentro do Postman
 
 ![Demonstração 2](https://github.com/Jullianag/gestao-locacao-veiculos/blob/main/assets/Captura%20de%20tela%202024-04-08%20173617.png)
 
