@@ -32,6 +32,10 @@ Fotos das transações executadas dentro do Postman
 
 ![Demonstração 6](https://github.com/Jullianag/gestao-locacao-veiculos/blob/main/assets/Captura%20de%20tela%202024-04-08%20173859.png)
 
+## Collection Postman
+[Arquivo JSON](https://github.com/Jullianag/gestao-locacao-veiculos/blob/main/assets/Locacao.postman_collection.json)
+
+
 # Tecnologias utilizadas
 ## Back end
 - Java
