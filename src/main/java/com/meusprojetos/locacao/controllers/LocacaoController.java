@@ -25,7 +25,7 @@ public class LocacaoController {
          return ResponseEntity.ok(dto);
     }
 
-    @PreAuthorize("hasAnyRole('ROLE_ADMIN')")
+    @PreAuthorize("hasRole('ROLE_ADMIN')")
     @GetMapping
     public ResponseEntity<Page<LocacaoDTO>> findAll(
             @RequestParam(name = "name", defaultValue = "") String nome,
