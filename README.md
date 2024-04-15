@@ -45,6 +45,7 @@ Fotos das transações executadas dentro do Postman
 
 ## Banco de dados:
 - Banco de dados: teste H2
+- Em produção: Postgres
 
 # Como executar o projeto
 
